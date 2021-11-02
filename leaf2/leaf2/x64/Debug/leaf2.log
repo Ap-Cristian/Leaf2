@@ -1,0 +1,5 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+G:\repos\glfw-3.3.5.bin.WIN32\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+G:\leaf\leaf2\x64\Debug\leaf2.exe : fatal error LNK1120: 2 unresolved externals

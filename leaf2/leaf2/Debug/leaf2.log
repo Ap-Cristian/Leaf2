@@ -1,0 +1,4 @@
+﻿  main.c
+G:\leaf\leaf2\leaf2\main.c(20,57): warning C4113: 'void (__cdecl *)(GLFWwindow *,int)' differs in parameter lists from 'GLFWwindowclosefun'
+G:\leaf\leaf2\leaf2\main.c(21,41): warning C4113: 'void (__cdecl *)(GLFWwindow *,int)' differs in parameter lists from 'GLFWkeyfun'
+  leaf2.vcxproj -> G:\leaf\leaf2\Debug\leaf2.exe
